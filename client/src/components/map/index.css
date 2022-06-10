@@ -1,0 +1,13 @@
+.leaflet-touch .leaflet-control-layers, .leaflet-touch .leaflet-bar {
+	border: none;
+}
+.leaflet-touch .leaflet-control-attribution, .leaflet-touch .leaflet-control-layers, .leaflet-touch .leaflet-bar {
+	height: 0;
+}
+.marker {
+	background-image: none;
+	background: #333;
+}
+.popup-marker {
+	height: 100px;
+}

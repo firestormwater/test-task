@@ -1,0 +1,13 @@
+.pagination {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px 20px;
+	width: 100%;
+}
+.btn {
+	background-color: rgb(88, 59, 219);
+	cursor: pointer;
+	padding: 5px 10px;
+	color: white;
+}
